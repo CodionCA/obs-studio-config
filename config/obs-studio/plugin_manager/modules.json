@@ -1,0 +1,26 @@
+[
+    {
+        "display_name": "",
+        "enabled": true,
+        "encoders": [],
+        "id": "",
+        "module_name": "advanced-scene-switcher",
+        "outputs": [],
+        "services": [],
+        "sources": [],
+        "version": ""
+    },
+    {
+        "display_name": "",
+        "enabled": true,
+        "encoders": [],
+        "id": "",
+        "module_name": "win-capture-audio",
+        "outputs": [],
+        "services": [],
+        "sources": [
+            "audio_capture"
+        ],
+        "version": ""
+    }
+]
